@@ -1,2 +1,5 @@
 # Task-Manager
-RESTful API for a simple task manager application with Express and NodeJs
+
+
+RESTful API created with express server for task manager application
+API will allow users to perform CRUD operations on tasks
